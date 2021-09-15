@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import './style.css';
-import logo from './logo.jpeg';
+import './style.scss';
+// import logo from './logo.jpeg';
 import logo2 from './F66F1B12-EEE3-4FF6-A115-E7931D6DA55E.jpeg';
 
 function component() {
